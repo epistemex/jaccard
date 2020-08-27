@@ -1,0 +1,12 @@
+{
+  "name": "jaccard",
+  "version": "1.0.0-beta",
+  "description": "Jaccard Index Similarity Algorithm",
+  "main": "jaccard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Epistemex",
+  "license": "MIT"
+}
